@@ -1,0 +1,62 @@
+### ADF Test Summary for Total_Productivity:
+- observed: evidence of stationarity
+- cagr: non-stationary residuals
+- ets: evidence of stationarity
+- dynamic: strong evidence of stationarity
+- growth_rate: strong evidence of stationarity
+
+### Ljung-Box Test Summary for Total_Productivity:
+- observed: weak autocorrelation
+- cagr: weak autocorrelation
+- ets: weak autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
+### ADF Test Summary for Health_Productivity:
+- observed: strong evidence of stationarity
+- cagr: strong evidence of stationarity
+- ets: strong evidence of stationarity
+- dynamic: evidence of stationarity
+- growth_rate: borderline stationarity
+
+### Ljung-Box Test Summary for Health_Productivity:
+- observed: weak autocorrelation
+- cagr: moderate autocorrelation
+- ets: significant autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
+### ADF Test Summary for Education_Productivity:
+- observed: non-stationary residuals
+- cagr: strong evidence of stationarity
+- ets: non-stationary residuals
+- growth_rate: non-stationary residuals
+
+### Ljung-Box Test Summary for Education_Productivity:
+- observed: moderate autocorrelation
+- cagr: significant autocorrelation
+- ets: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
+### ADF Test Summary for POS_Productivity:
+- observed: non-stationary residuals
+- cagr: non-stationary residuals
+- ets: non-stationary residuals
+- dynamic: evidence of stationarity
+- growth_rate: non-stationary residuals
+
+### Ljung-Box Test Summary for POS_Productivity:
+- observed: weak autocorrelation
+- cagr: weak autocorrelation
+- ets: weak autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+

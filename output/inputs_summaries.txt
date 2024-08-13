@@ -1,0 +1,64 @@
+### ADF Test Summary for Total_Input:
+- observed: strong evidence of stationarity
+- cagr: non-stationary residuals
+- ets: non-stationary residuals
+- dynamic: borderline stationarity
+- growth_rate: non-stationary residuals
+
+### Ljung-Box Test Summary for Total_Input:
+- observed: weak autocorrelation
+- cagr: weak autocorrelation
+- ets: weak autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
+### ADF Test Summary for Health_Input:
+- observed: evidence of stationarity
+- cagr: non-stationary residuals
+- ets: non-stationary residuals
+- dynamic: strong evidence of stationarity
+- growth_rate: evidence of stationarity
+
+### Ljung-Box Test Summary for Health_Input:
+- observed: weak autocorrelation
+- cagr: weak autocorrelation
+- ets: weak autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
+### ADF Test Summary for Education_Input:
+- observed: non-stationary residuals
+- cagr: strong evidence of stationarity
+- ets: non-stationary residuals
+- dynamic: strong evidence of stationarity
+- growth_rate: strong evidence of stationarity
+
+### Ljung-Box Test Summary for Education_Input:
+- observed: weak autocorrelation
+- cagr: significant autocorrelation
+- ets: weak autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
+### ADF Test Summary for POS_Input:
+- observed: non-stationary residuals
+- cagr: evidence of stationarity
+- ets: strong evidence of stationarity
+- dynamic: borderline stationarity
+- growth_rate: strong evidence of stationarity
+
+### Ljung-Box Test Summary for POS_Input:
+- observed: moderate autocorrelation
+- cagr: significant autocorrelation
+- ets: significant autocorrelation
+- dynamic: weak autocorrelation
+- growth_rate: weak autocorrelation
+
+==================================================
+
